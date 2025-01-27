@@ -1,7 +1,7 @@
-# vCard - Personal portfolio
+# Reinhart's  Personal portfolio
 
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Reinhart's portfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
