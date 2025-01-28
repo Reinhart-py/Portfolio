@@ -1,5 +1,13 @@
 # Reinhart's  Personal portfolio
 
+![GitHub repo size](https://img.shields.io/github/repo-size/reinhart-py/Portfolio)
+![GitHub stars](https://img.shields.io/github/stars/Reinhart-py/Portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/reinhart-py/Portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Reinhart_py_?style=social)](https://twitter.com/intent/follow?screen_name=reinhart_py_)
+[![Telegram DM](https://img.shields.io/telegram/Profile/kiri0507?style=social)](https://t.me/kiri0507)
+
+
+
 
 Reinhart's portfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
