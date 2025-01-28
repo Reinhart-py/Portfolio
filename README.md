@@ -32,7 +32,7 @@ git clone https://github.com/Reinhart-py/Portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter]().
+If you want to contact me you can reach me at [Twitter](https://x.com/reinhart_py).
 
 ## License
 
